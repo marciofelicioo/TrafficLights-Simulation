@@ -1,4 +1,4 @@
-# TrafficLights-Simulation
+# TrafficLights-Simulation 🚦
 
 ![Traffic Lights Simulation](traffic.png)
 
